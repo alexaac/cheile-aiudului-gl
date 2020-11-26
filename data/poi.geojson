@@ -1,0 +1,1757 @@
+{
+    "type": "FeatureCollection",
+    "name": "poi_4326",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 412.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581604426424807,
+            46.35811469907344
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 441.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.568564657106332,
+            46.359124573561964
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 408.1",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.597755853598745,
+            46.35916269564133
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 449.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.562265816490804,
+            46.36018631256251
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 396.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.604851067588275,
+            46.36180070806076
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 631.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.57924720927932,
+            46.36379013321431
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 448.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.59194041885164,
+            46.36351082014039
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 657.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.574807734454797,
+            46.36395451055
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dealu Velii",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.57444377956978,
+            46.364379330110744
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Poiana Aiudului",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.60559772647587,
+            46.367127973383035
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 452.4",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.588912188118616,
+            46.364959269284846
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 391.7",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.603253474287786,
+            46.3646879437755
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 658.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.554766766583274,
+            46.36921047417373
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 596.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.584784078374113,
+            46.36928335606063
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 647.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.583596023301652,
+            46.37214146097499
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dealu Bogzii",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.568458380471366,
+            46.37263429738882
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 386.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.602748185944908,
+            46.372030106818215
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 827.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.56992665759805,
+            46.37333919203383
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 582.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.594721101538518,
+            46.37331623508205
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dealu Sipotelor",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.554196821776546,
+            46.37545062050903
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 772.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.561682592691785,
+            46.376229631919244
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 832.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.570525994762683,
+            46.3762180940646
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Chei",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.579921183603144,
+            46.37659379108319
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 399.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.60053438226456,
+            46.377374399505264
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Vf. Rachis 779.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.588720260909962,
+            46.378623688060536
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 749.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.574922409417155,
+            46.37930819410322
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 607.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.606713332596787,
+            46.37997897561443
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 722.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58876128232135,
+            46.382003011756694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 482.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.577656783704416,
+            46.38520591063723
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 635.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.588127854145604,
+            46.38594107459521
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 435.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.605846625859254,
+            46.385538857196366
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fata Ratului",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.596964949833463,
+            46.38587994865771
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 522.4",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.562288987088163,
+            46.388565064692
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Valisoara",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.563477839956743,
+            46.389369257739915
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 696.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.59073843675379,
+            46.389545638065115
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Data 884.4",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58281091061094,
+            46.39572602302956
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 731.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.591616024254076,
+            46.39652947021037
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": " 704.0",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.602002998021977,
+            46.39732009648192
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coltul Cetatii",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.586837885801355,
+            46.374762087152135
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coltul Vili",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.584750797731203,
+            46.37178457056217
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coltul Bogza",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.57896145218493,
+            46.378529739749084
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coltul Diacului",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.585302592318666,
+            46.38102531611466
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Tanc",
+          "fontsize": 20,
+          "background": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.580887698055665,
+            46.37509323163312
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.586970987440978,
+            46.374092191182385
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hard Rock",
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei9.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.586970987440978,
+            46.374092191182385
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.586970987440978,
+            46.374092191182385
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "1",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.583421524321164,
+            46.37433659597343
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tabara",
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei4.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.583421524321164,
+            46.37433659597343
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.583421524321164,
+            46.37433659597343
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "2",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.580810289726838,
+            46.37993433414342
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei6.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.580810289726838,
+            46.37993433414342
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.580810289726838,
+            46.37993433414342
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "3",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58288467804339,
+            46.3769
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei1.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58288467804339,
+            46.3769
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58288467804339,
+            46.3769
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "4",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58194009050639,
+            46.379100874551945
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei2.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58194009050639,
+            46.379100874551945
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58194009050639,
+            46.379100874551945
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "5",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58182062796494,
+            46.374670573790176
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei2.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58182062796494,
+            46.374670573790176
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58182062796494,
+            46.374670573790176
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "6",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581387228977377,
+            46.37383711419871
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei14.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581387228977377,
+            46.37383711419871
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581387228977377,
+            46.37383711419871
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "7",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.5879,
+            46.37410232206047
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei10.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.5879,
+            46.37410232206047
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.5879,
+            46.37410232206047
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "8",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58712795736713,
+            46.3749
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei19.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58712795736713,
+            46.3749
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58712795736713,
+            46.3749
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "9",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58347885963576,
+            46.374
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei8.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58347885963576,
+            46.374
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58347885963576,
+            46.374
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "10",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58,
+            46.38003630898124
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei7.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58,
+            46.38003630898124
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58,
+            46.38003630898124
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "11",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.580769222149648,
+            46.3809
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei21.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.580769222149648,
+            46.3809
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.580769222149648,
+            46.3809
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "12",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.582,
+            46.3769
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei3.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.582,
+            46.3769
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.582,
+            46.3769
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "13",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.582799340132816,
+            46.376
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei20.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.582799340132816,
+            46.376
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.582799340132816,
+            46.376
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "14",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.582,
+            46.376
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei22.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.582,
+            46.37601
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.582,
+            46.376
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "15",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581,
+            46.37919829516261
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei17.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581,
+            46.37919829516261
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581,
+            46.37919829516261
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "16",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581685135844378,
+            46.374
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei17.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581685135844378,
+            46.374
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.581685135844378,
+            46.374
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "17",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58127014195898,
+            46.372
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "fontSize": 20,
+          "anchorOffset": {
+            "y": 45,
+            "x": 0
+          },
+          "icon": "caret-down"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "anchorOffset": {
+            "y": 70,
+            "x": 0
+          },
+          "borderRadius": 32,
+          "image": "img/chei23.png",
+          "height": 60,
+          "width": 60,
+          "borderWidth": 2,
+          "background": "#ccc",
+          "fontsize": 20
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58127014195898,
+            46.372
+          ]
+        }
+      },
+      {
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.58127014195898,
+            46.372
+          ]
+        },
+        "type": "Feature",
+        "id": 0,
+        "properties": {
+          "name": "18",
+          "borderRadius": 30,
+          "padding": 5,
+          "fontSize": 10,
+          "background": "#66aed8",
+          "anchor": "bottom"
+        }
+      }
+    ]
+  }
